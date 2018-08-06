@@ -93,12 +93,7 @@ python -m ipykernel install --user --name pmaienv-project --display-name "pmaien
 
 8. Launch Jupyter notebook.
 ```
-jupyter notebook cifar10_cnn.ipynb
+jupyter notebook cifar10_augmentation.ipynb
 ```
 
-9. Alternative
-```
-jupyter notebook cifar10_mlp.ipynb
-```
-
-10. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the pmaienv-project environment by using the drop-down menu (**Kernel > Change kernel > pmaienv-project**). 
+9. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the pmaienv-project environment by using the drop-down menu (**Kernel > Change kernel > pmaienv-project**). 
