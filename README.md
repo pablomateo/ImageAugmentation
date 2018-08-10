@@ -31,8 +31,8 @@ Here are the classes in the dataset, as well as 10 random images from each:
 1. Clone the repository and navigate to the downloaded folder.
 	
 ```	
-    $ git clone https://github.com/pablomateo/AIAutoencoder.git
-    $ cd AIAutoencoder
+    $ git clone https://github.com/pablomateo/ImageAugmentation.git
+    $ cd ImageAugmentation
 ```
 
 2. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
