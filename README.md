@@ -76,11 +76,11 @@ Here are the classes in the dataset, as well as 10 random images from each:
 ```
 
 6. Switch [Keras backend](https://keras.io/backend/) to TensorFlow.
-	- __Linux__ or __Mac__:
+- __Linux__ or __Mac__:
 ```
     (pmaienv)$ KERAS_BACKEND=tensorflow python -c "from keras import backend"
 ```
-	- __Windows__:
+- __Windows__:
 ```
     (pmaienv)$ set KERAS_BACKEND=tensorflow python -c "from keras import backend"
 ```
