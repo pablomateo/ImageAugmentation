@@ -91,7 +91,7 @@ Here are the classes in the dataset, as well as 10 random images from each:
     (pmaienv)$ python -m ipykernel install --user --name pmaienv-project --display-name "pmaienv-project"
 ```
 
-8. Launch Jupyter notebook.
+8. Launch Jupyter notebook
 ```
     (pmaienv)$ jupyter notebook cifar10_augmentation.ipynb
 ```
